@@ -1,0 +1,46 @@
+2022-03-17 13:05:40 WARN  Calculation:31 - Operation warning
+2022-03-17 13:07:17 WARN  Calculation:31 - Operation warning
+2022-03-17 13:07:17 DEBUG Calculation:36 - Debug level log
+2022-03-17 13:08:15 WARN  Calculation:31 - Operation warning
+2022-03-17 13:08:15 DEBUG Calculation:36 - Debug level log
+2022-03-17 13:08:15 INFO  Calculation:27 - Set the second number
+2022-03-17 13:08:15 ERROR Calculation:46 - ERROR: You can't dividing by 0
+2022-03-17 13:08:44 WARN  Calculation:31 - Operation warning
+2022-03-17 13:08:44 DEBUG Calculation:36 - Debug level log
+2022-03-17 13:08:44 INFO  Calculation:27 - Set the second number
+2022-03-17 13:12:49 WARN  Calculation:31 - Operation warning
+2022-03-17 13:12:49 DEBUG Calculation:36 - Debug level log
+2022-03-17 13:12:49 INFO  Calculation:27 - Set the second number
+2022-03-17 16:11:54 WARN  Calculation:31 - Operation warning
+2022-03-17 16:11:54 DEBUG Calculation:36 - Debug level log
+2022-03-17 16:11:54 INFO  Calculation:27 - Set the second number
+2022-03-17 16:14:21 WARN  Calculation:31 - Operation warning
+2022-03-17 16:14:21 DEBUG Calculation:36 - Debug level log
+2022-03-17 16:14:21 INFO  Calculation:27 - Set the second number
+2022-03-17 16:15:29 WARN  Calculation:31 - Operation warning
+2022-03-17 16:15:29 DEBUG Calculation:36 - Debug level log
+2022-03-17 16:15:29 INFO  Calculation:27 - Set the second number
+2022-03-17 16:16:13 WARN  Calculation:31 - Operation warning
+2022-03-17 16:16:13 DEBUG Calculation:36 - Debug level log
+2022-03-17 16:16:13 INFO  Calculation:27 - Set the second number
+2022-03-17 16:16:13 ERROR Calculation:46 - ERROR: You can't dividing by 0
+2022-03-17 16:21:38 WARN  Calculation:31 - Operation warning
+2022-03-17 16:21:38 DEBUG Calculation:36 - Debug level log
+2022-03-17 16:21:38 INFO  Calculation:27 - Set the second number
+2022-03-17 16:21:38 ERROR Calculation:46 - ERROR: You can't dividing by 0
+2022-03-17 16:22:12 WARN  Calculation:31 - Operation warning
+2022-03-17 16:22:12 DEBUG Calculation:36 - Debug level log
+2022-03-17 16:22:12 INFO  Calculation:27 - Set the second number
+2022-03-17 17:16:28 WARN  Calculation:31 - Operation warning
+2022-03-17 17:16:28 DEBUG Calculation:36 - Debug level log
+2022-03-17 17:16:28 INFO  Calculation:27 - Set the second number
+2022-03-17 17:16:44 WARN  Calculation:31 - Operation warning
+2022-03-17 17:16:44 DEBUG Calculation:36 - Debug level log
+2022-03-17 17:16:44 INFO  Calculation:27 - Set the second number
+2022-04-12 18:41:42 WARN  Calculation:31 - Operation warning
+2022-04-12 18:41:42 DEBUG Calculation:36 - Debug level log
+2022-04-12 18:41:42 INFO  Calculation:27 - Set the second number
+2022-04-12 20:25:38 DEBUG Calculation:21 - Debug level log
+2022-04-12 20:30:23 WARN  Calculation:31 - Operation warning
+2022-04-12 20:30:23 DEBUG Calculation:36 - Debug level log
+2022-04-12 20:30:23 INFO  Calculation:27 - Set the second number
